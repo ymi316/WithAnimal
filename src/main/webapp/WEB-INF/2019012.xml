@@ -1,0 +1,2621 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL SERVICE.</resultMsg>
+	</header>
+	<body>
+		<items>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 고성군 고성읍 송학리 260-54</careAddr>
+				<careNm>백호종합동물병원</careNm>
+				<careTel>010-3551-8261</careTel>
+				<chargeNm>이주영</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>448542201900628</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270812745_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>경남 고성군 개천면 청광2길 176  </happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200110</noticeEdt>
+				<noticeNo>경남-고성-2019-00479</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-670-4314</officetel>
+				<orgNm>경상남도 고성군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270812745.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>특이사항 없음</specialMark>
+				<weight>2(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 고성군 고성읍 송학리 260-54</careAddr>
+				<careNm>백호종합동물병원</careNm>
+				<careTel>010-3551-8261</careTel>
+				<chargeNm>이주영</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>448542201900627</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270812189_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>경남 고성군 개천면 청광2길 176  </happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200110</noticeEdt>
+				<noticeNo>경남-고성-2019-00478</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-670-4314</officetel>
+				<orgNm>경상남도 고성군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270812189.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>특이사항 없음</specialMark>
+				<weight>2(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 고성군 고성읍 송학리 260-54</careAddr>
+				<careNm>백호종합동물병원</careNm>
+				<careTel>010-3551-8261</careTel>
+				<chargeNm>이주영</chargeNm>
+				<colorCd>흰갈색</colorCd>
+				<desertionNo>448542201900626</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270812286_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>경남 고성군 개천면 청광2길 176  </happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200110</noticeEdt>
+				<noticeNo>경남-고성-2019-00477</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-670-4314</officetel>
+				<orgNm>경상남도 고성군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270812286.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>특이사항 없음</specialMark>
+				<weight>2(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 고성군 고성읍 송학리 260-54</careAddr>
+				<careNm>백호종합동물병원</careNm>
+				<careTel>010-3551-8261</careTel>
+				<chargeNm>이주영</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>448542201900625</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270812613_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>경남 고성군 개천면 청광2길 176  </happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200110</noticeEdt>
+				<noticeNo>경남-고성-2019-00476</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-670-4314</officetel>
+				<orgNm>경상남도 고성군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270812613.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>특이사항 없음</specialMark>
+				<weight>2(Kg)</weight>
+			</item>
+			<item>
+				<age>2016(년생)</age>
+				<careAddr>경상남도 고성군 고성읍 송학리 260-54</careAddr>
+				<careNm>백호종합동물병원</careNm>
+				<careTel>010-3551-8261</careTel>
+				<chargeNm>이주영</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>448542201900624</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270812293_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>경남 고성군 거류면 거류로 655</happenPlace>
+				<kindCd>[개] 푸들</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200110</noticeEdt>
+				<noticeNo>경남-고성-2019-00475</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-670-4314</officetel>
+				<orgNm>경상남도 고성군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270812293.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>특이사항 없음</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2017(년생)</age>
+				<careAddr>경상남도 고성군 고성읍 송학리 260-54</careAddr>
+				<careNm>백호종합동물병원</careNm>
+				<careTel>010-3551-8261</careTel>
+				<chargeNm>이주영</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>448542201900623</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270812551_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>경남 고성군 거류면 거류로 459-13 </happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200110</noticeEdt>
+				<noticeNo>경남-고성-2019-00474</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-670-4314</officetel>
+				<orgNm>경상남도 고성군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270812551.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>앞다리 찰과상, 피부병 심함</specialMark>
+				<weight>6(Kg)</weight>
+			</item>
+			<item>
+				<age>2014(년생)</age>
+				<careAddr>경상남도 통영시 광도면 죽림3로 33 (광도면) 사랑애완동물병원</careAddr>
+				<careNm>사랑애완동물병원</careNm>
+				<careTel>055-648-7582</careTel>
+				<chargeNm>박정재</chargeNm>
+				<colorCd>갈색/은색</colorCd>
+				<desertionNo>448533201900915</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271012792_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>이순신공원 근처</happenPlace>
+				<kindCd>[개] 요크셔 테리어</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-통영-2019-00579</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-650-6252</officetel>
+				<orgNm>경상남도 통영시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271012792.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>생리중,분홍색 체크무늬/파란색 나그랑옷 착용</specialMark>
+				<weight>3.1(Kg)</weight>
+			</item>
+			<item>
+				<age>2016(년생)</age>
+				<careAddr>경상남도 통영시 광도면 죽림3로 33 (광도면) 사랑애완동물병원</careAddr>
+				<careNm>사랑애완동물병원</careNm>
+				<careTel>055-648-7582</careTel>
+				<chargeNm>박정재</chargeNm>
+				<colorCd>검갈색</colorCd>
+				<desertionNo>448533201900914</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/20191227101249_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>용남면 선촌마을</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-통영-2019-00578</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-650-6252</officetel>
+				<orgNm>경상남도 통영시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/20191227101249.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>매우 사납고 예민함</specialMark>
+				<weight>22(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 창원시 진해구 웅천로 218 (성내동, 농업기술센터) 205번지 </careAddr>
+				<careNm>진해유기동물보호소</careNm>
+				<careTel>055-225-5483</careTel>
+				<chargeNm>진해구</chargeNm>
+				<colorCd>베이지</colorCd>
+				<desertionNo>448532201900937</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271112758_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>이동로 69번길 14</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원3-2019-00607</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-225-5483</officetel>
+				<orgNm>경상남도 창원시 진해구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271112758.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>칩x, 5개월 추정, 처진귀 갈색코,소심한 성격, 겁을먹고 웅크리고 있음</specialMark>
+				<weight>5.2(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 창원시 진해구 웅천로 218 (성내동, 농업기술센터) 205번지 </careAddr>
+				<careNm>진해유기동물보호소</careNm>
+				<careTel>055-225-5483</careTel>
+				<chargeNm>진해구</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>448532201900936</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/20191227111264_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>대장동 전,답</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원3-2019-00606</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-225-5483</officetel>
+				<orgNm>경상남도 창원시 진해구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/20191227111264.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>아이들만 입소, 1개월추정, 몽실몽실 예쁜발, 사람을 너무 좋아하고 애교많음,
+				</specialMark>
+				<weight>1.7(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 창원시 진해구 웅천로 218 (성내동, 농업기술센터) 205번지 </careAddr>
+				<careNm>진해유기동물보호소</careNm>
+				<careTel>055-225-5483</careTel>
+				<chargeNm>진해구</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>448532201900935</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271112961_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>대장동 전,답</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원3-2019-00605</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-225-5483</officetel>
+				<orgNm>경상남도 창원시 진해구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271112961.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>아이들만 입소, 1개월 추정, 까만눈, 까만코,제일 소심하지만 사람손길을 좋아함,
+				</specialMark>
+				<weight>1.5(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 창원시 진해구 웅천로 218 (성내동, 농업기술센터) 205번지 </careAddr>
+				<careNm>진해유기동물보호소</careNm>
+				<careTel>055-225-5483</careTel>
+				<chargeNm>진해구</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>448532201900934</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271112850[1]_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>대장동 전,답</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원3-2019-00604</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-225-5483</officetel>
+				<orgNm>경상남도 창원시 진해구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271112850[1].jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>아이들만 입소,1개월추정, 형제들중 성격이 제일 사회성좋음, 얼굴도 제일 동글동글 함
+				</specialMark>
+				<weight>1.7(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 창원시 진해구 웅천로 218 (성내동, 농업기술센터) 205번지 </careAddr>
+				<careNm>진해유기동물보호소</careNm>
+				<careTel>055-225-5483</careTel>
+				<chargeNm>진해구</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>448532201900933</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271112306_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>대장동 전,답</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원3-2019-00603</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-225-5483</officetel>
+				<orgNm>경상남도 창원시 진해구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271112306.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>대장동계곡 밭에서 아이들만 발견됨, 1개월 추정,사람을 잘따르고 동글동글 최강 귀요미,
+				</specialMark>
+				<weight>1.6(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>충청남도 예산군 예산읍 예산로 251 (예산읍) 흙동물병원</careAddr>
+				<careNm>흙동물병원</careNm>
+				<careTel>010-5453-8043</careTel>
+				<chargeNm>가축방역팀</chargeNm>
+				<colorCd>흰갈</colorCd>
+				<desertionNo>444461201900495</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270912243_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>신양 무봉리 도로</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>충남-예산-2019-00323</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>041-339-7644</officetel>
+				<orgNm>충청남도 예산군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270912243.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>이상없음</specialMark>
+				<weight>1(Kg)</weight>
+			</item>
+			<item>
+				<age>2018(년생)</age>
+				<careAddr>충청남도 예산군 예산읍 예산로 251 (예산읍) 흙동물병원</careAddr>
+				<careNm>흙동물병원</careNm>
+				<careTel>010-5453-8043</careTel>
+				<chargeNm>가축방역팀</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>444461201900494</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/20191227091232_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>고덕면 사리서길 5</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>충남-예산-2019-00322</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>041-339-7644</officetel>
+				<orgNm>충청남도 예산군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/20191227091232.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>이상없음</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>강원도 홍천군 화촌면 둔덕이길 68 (화촌면, 홍천군유기동물보호센터) </careAddr>
+				<careNm>홍천군유기동물보호소</careNm>
+				<careTel>033-434-9435</careTel>
+				<chargeNm>최정원</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>442425201900450</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271012680_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>화촌면 굴운로75번길5</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>강원-홍천-2019-00393</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>033-430-2741</officetel>
+				<orgNm>강원도 홍천군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271012680.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>없음</specialMark>
+				<weight>6(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경기도 가평군 가평읍 아랫마장길 59 (가평읍, 농업기술센터) 가평 유기동물
+					보호소(10:00~18:00)</careAddr>
+				<careNm>가평군유기동물보호소</careNm>
+				<careTel>031-580-4765</careTel>
+				<chargeNm>오흥식</chargeNm>
+				<colorCd>흰갈</colorCd>
+				<desertionNo>441416201900643</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271112320[1]_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>와이와이글램핑장</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경기-가평-2019-00297</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>031-580-4796</officetel>
+				<orgNm>경기도 가평군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271112320[1].jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>단지내 배회중 구조/목줄x 목걸이x</specialMark>
+				<weight>3.0(Kg)</weight>
+			</item>
+			<item>
+				<age>2014(년생)</age>
+				<careAddr>경기도 안산시 상록구 청곡길 50 (부곡동) 안산시 상록구 부곡동 231-5</careAddr>
+				<careNm>(사)한동보</careNm>
+				<careTel>031-296-0124</careTel>
+				<chargeNm>소지현</chargeNm>
+				<colorCd>백</colorCd>
+				<desertionNo>441393201902972</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271112180_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>본오1동 719-1 부근</happenPlace>
+				<kindCd>[개] 스피츠</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경기-안산-2019-01777</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>031-481-2352</officetel>
+				<orgNm>경기도 안산시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271112180.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>입주변상처,칩있음 이름 하리</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경기도 부천시 경인로 72 (송내동) </careAddr>
+				<careNm>가나동물병원</careNm>
+				<careTel>032-665-0075</careTel>
+				<colorCd>흰색</colorCd>
+				<desertionNo>441386201901521</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271012349_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>고강동 두산빌라</happenPlace>
+				<kindCd>[고양이] 한국 고양이</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경기-부천-2019-01156</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>032-625-2808</officetel>
+				<orgNm>경기도 부천시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271012349.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>30일령. 왼쪽눈 결막염. 머리윗쪽 검정색 털. 순함. 바로입양가능</specialMark>
+				<weight>0.7(Kg)</weight>
+			</item>
+			<item>
+				<age>2016(년생)</age>
+				<careAddr>경기도 부천시 오정구 원종동 229-8</careAddr>
+				<careNm>24시아이동물메디컬</careNm>
+				<careTel>032-677-5262</careTel>
+				<colorCd>흰</colorCd>
+				<desertionNo>441386201901520</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270912813_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>한라마을 118동</happenPlace>
+				<kindCd>[고양이] 엑조틱</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경기-부천-2019-01155</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>032-625-2808</officetel>
+				<orgNm>경기도 부천시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270912813.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>중성화안함.순함. 파란목줄착용 두마리 같이 발견</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2016(년생)</age>
+				<careAddr>경기도 부천시 오정구 원종동 229-8</careAddr>
+				<careNm>24시아이동물메디컬</careNm>
+				<careTel>032-677-5262</careTel>
+				<colorCd>갈</colorCd>
+				<desertionNo>441386201901519</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/20191227081242_s.jpg
+				</filename>
+				<happenDt>20191227</happenDt>
+				<happenPlace>한라마을 118동</happenPlace>
+				<kindCd>[고양이] 엑조틱</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경기-부천-2019-01154</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>032-625-2808</officetel>
+				<orgNm>경기도 부천시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/20191227081242.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>약간의 경계심.노란색목줄착용.두마리같이 발견</specialMark>
+				<weight>3(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 창원시 의창구 창이대로 71 (명서동, 창원시농업기술센터) 축산과</careAddr>
+				<careNm>창원유기동물보호소</careNm>
+				<careTel>055-225-5481</careTel>
+				<chargeNm>의창성산구</chargeNm>
+				<colorCd>검갈색</colorCd>
+				<desertionNo>448567201901047</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270912910_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>의창구 동읍 무성길 47번길 8-4 부근</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원1-2019-01044</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-225-5484</officetel>
+				<orgNm>경상남도 창원시 의창성산구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270912910.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>I-12-1-38-2 검정색+갈색. 호피무늬. 로프로 만든 목줄.</specialMark>
+				<weight>5(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 창원시 의창구 창이대로 71 (명서동, 창원시농업기술센터) 축산과</careAddr>
+				<careNm>창원유기동물보호소</careNm>
+				<careTel>055-225-5481</careTel>
+				<chargeNm>의창성산구</chargeNm>
+				<colorCd>검갈색</colorCd>
+				<desertionNo>448567201901046</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/20191227091231_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>의창구 동읍 무성길 47번길 8-4 부근</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원1-2019-01043</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-225-5484</officetel>
+				<orgNm>경상남도 창원시 의창성산구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/20191227091231.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>I-12-1-38-1 검정색+갈색. 호피무늬. 빨간색목줄.</specialMark>
+				<weight>5(Kg)</weight>
+			</item>
+			<item>
+				<age>2018(년생)</age>
+				<careAddr>경상남도 창원시 의창구 창이대로 71 (명서동, 창원시농업기술센터) 축산과</careAddr>
+				<careNm>창원유기동물보호소</careNm>
+				<careTel>055-225-5481</careTel>
+				<chargeNm>의창성산구</chargeNm>
+				<colorCd>흰색+연갈색</colorCd>
+				<desertionNo>448567201901045</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270912534_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>의창구 대산면 대방리 571번지 과수원 내</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원1-2019-01042</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-225-5484</officetel>
+				<orgNm>경상남도 창원시 의창성산구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270912534.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>I-12-1-37 흰색+연갈색. 왼족앞다리 잘 못디딤. 병원이송</specialMark>
+				<weight>7.8(Kg)</weight>
+			</item>
+			<item>
+				<age>2018(년생)</age>
+				<careAddr>경상남도 사천시 곤명면 흥신로 514 (곤명면) </careAddr>
+				<careNm>사천시위탁관리소</careNm>
+				<careTel>010-9982-1872</careTel>
+				<chargeNm>임기택</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>448534201901136</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271112850_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>토끼로245</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-사천-2019-01086</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-831-3784</officetel>
+				<orgNm>경상남도 사천시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271112850.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>팬션주위에서 포획됨</specialMark>
+				<weight>6(Kg)</weight>
+			</item>
+			<item>
+				<age>2016(년생)</age>
+				<careAddr>경상남도 사천시 곤명면 흥신로 514 (곤명면) </careAddr>
+				<careNm>사천시위탁관리소</careNm>
+				<careTel>010-9982-1872</careTel>
+				<chargeNm>임기택</chargeNm>
+				<colorCd>흰갈색</colorCd>
+				<desertionNo>448534201901135</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271112294_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>어류길22</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-사천-2019-01085</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>055-831-3784</officetel>
+				<orgNm>경상남도 사천시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271112294.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>목줄 없음</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 경주시 용담로 12 (황성동) </careAddr>
+				<careNm>공원옆동물병원</careNm>
+				<careTel>010-3841-6303</careTel>
+				<chargeNm>경주시</chargeNm>
+				<colorCd>블랙화이트</colorCd>
+				<desertionNo>447505201901403</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261312766_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>황성동 오일장</happenPlace>
+				<kindCd>[고양이] 한국 고양이</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-경주-2019-01388</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>054-779-6303</officetel>
+				<orgNm>경상북도 경주시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261312766.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>신고자가 입양희망</specialMark>
+				<weight>2.14(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 경주시 용담로 12 (황성동) </careAddr>
+				<careNm>공원옆동물병원</careNm>
+				<careTel>010-3841-6303</careTel>
+				<chargeNm>경주시</chargeNm>
+				<colorCd>크림색</colorCd>
+				<desertionNo>447505201901402</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261312835_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>서천둔치 공중화장실 인근</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-경주-2019-01387</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>054-779-6303</officetel>
+				<orgNm>경상북도 경주시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261312835.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>
+				</specialMark>
+				<weight>10(Kg)</weight>
+			</item>
+			<item>
+				<age>2018(년생)</age>
+				<careAddr>경상북도 경주시 용담로 12 (황성동) </careAddr>
+				<careNm>공원옆동물병원</careNm>
+				<careTel>010-3841-6303</careTel>
+				<chargeNm>경주시</chargeNm>
+				<colorCd>옐로우화이트</colorCd>
+				<desertionNo>447505201901401</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261312535_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>산내면 장승식당</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-경주-2019-01386</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>054-779-6303</officetel>
+				<orgNm>경상북도 경주시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261312535.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>불독믹스</specialMark>
+				<weight>15(Kg)</weight>
+			</item>
+			<item>
+				<age>2018(년생)</age>
+				<careAddr>경상북도 경주시 용담로 12 (황성동) </careAddr>
+				<careNm>공원옆동물병원</careNm>
+				<careTel>010-3841-6303</careTel>
+				<chargeNm>경주시</chargeNm>
+				<colorCd>화이트초코</colorCd>
+				<desertionNo>447505201901400</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912260912250_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>산내면 괘일장척길 237-30</happenPlace>
+				<kindCd>[개] 시베리안 허스키</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-경주-2019-01385</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>054-779-6303</officetel>
+				<orgNm>경상북도 경주시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912260912250.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>
+				</specialMark>
+				<weight>18(Kg)</weight>
+			</item>
+			<item>
+				<age>2017(년생)</age>
+				<careAddr>충청남도 공주시 감영길 7 (반죽동) </careAddr>
+				<careNm>이기영수의과병원</careNm>
+				<careTel>041-853-7575</careTel>
+				<chargeNm>가축방역팀</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>444450201901057</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271112121_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>탄천면 삼각리 사장골길</happenPlace>
+				<kindCd>[개] 진도견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>충남-공주-2019-00677</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>041-840-8877</officetel>
+				<orgNm>충청남도 공주시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271112121.png
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>건강상태 양호</specialMark>
+				<weight>19(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>충청북도 단양군 매포읍 우덕리 910번지</careAddr>
+				<careNm>단양군유기동물보호소</careNm>
+				<careTel>011-822-4351</careTel>
+				<chargeNm>단양군</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>443448201900178</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271012452_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>매포읍</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>충북-단양-2019-00178</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>043-420-2734</officetel>
+				<orgNm>충청북도 단양군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271012452.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>길거리 돌아다니는 것을 포획</specialMark>
+				<weight>3.00(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>강원도 철원군 동송읍 장흥로 311 (동송읍, 철원군농업기술센타) 농업기술센터</careAddr>
+				<careNm>철원군</careNm>
+				<careTel>033-450-5394</careTel>
+				<chargeNm>철원군 동물방역계</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>442430201900214</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261512821_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>동송읍 이평리 827-34</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>강원-철원-2019-00196</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>033-450-5394</officetel>
+				<orgNm>강원도 철원군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261512821.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>문혜소방서 포획</specialMark>
+				<weight>1(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>강원도 철원군 동송읍 장흥로 311 (동송읍, 철원군농업기술센타) 농업기술센터</careAddr>
+				<careNm>철원군</careNm>
+				<careTel>033-450-5394</careTel>
+				<chargeNm>철원군 동물방역계</chargeNm>
+				<colorCd>검정</colorCd>
+				<desertionNo>442430201900213</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261512884_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>동송읍 이평리 827-34</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>강원-철원-2019-00195</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>033-450-5394</officetel>
+				<orgNm>강원도 철원군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261512884.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>문혜소방서 포획</specialMark>
+				<weight>1(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>강원도 철원군 동송읍 장흥로 311 (동송읍, 철원군농업기술센타) 농업기술센터</careAddr>
+				<careNm>철원군</careNm>
+				<careTel>033-450-5394</careTel>
+				<chargeNm>철원군 동물방역계</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>442430201900212</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261512128_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>동송읍 이평리 827-34</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>강원-철원-2019-00194</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>033-450-5394</officetel>
+				<orgNm>강원도 철원군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261512128.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>문혜소방서 포획</specialMark>
+				<weight>1(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>강원도 철원군 동송읍 장흥로 311 (동송읍, 철원군농업기술센타) 농업기술센터</careAddr>
+				<careNm>철원군</careNm>
+				<careTel>033-450-5394</careTel>
+				<chargeNm>철원군 동물방역계</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>442430201900211</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261512908_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>동송읍 이평리 827-34</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>강원-철원-2019-00193</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>033-450-5394</officetel>
+				<orgNm>강원도 철원군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261512908.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>문혜소방서 포획</specialMark>
+				<weight>1(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>강원도 철원군 동송읍 장흥로 311 (동송읍, 철원군농업기술센타) 농업기술센터</careAddr>
+				<careNm>철원군</careNm>
+				<careTel>033-450-5394</careTel>
+				<chargeNm>철원군 동물방역계</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>442430201900210</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261412399_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>동송읍 이평리 827-34</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>강원-철원-2019-00192</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>033-450-5394</officetel>
+				<orgNm>강원도 철원군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261412399.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>문혜소방서 포획</specialMark>
+				<weight>1(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>강원도 철원군 동송읍 장흥로 311 (동송읍, 철원군농업기술센타) 농업기술센터</careAddr>
+				<careNm>철원군</careNm>
+				<careTel>033-450-5394</careTel>
+				<chargeNm>철원군 동물방역계</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>442430201900209</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/20191226141280_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>동송읍 이평리 827-34</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>강원-철원-2019-00191</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>033-450-5394</officetel>
+				<orgNm>강원도 철원군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/20191226141280.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>문혜소방서 포획</specialMark>
+				<weight>1(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>강원도 철원군 동송읍 장흥로 311 (동송읍, 철원군농업기술센타) 농업기술센터</careAddr>
+				<careNm>철원군</careNm>
+				<careTel>033-450-5394</careTel>
+				<chargeNm>철원군 동물방역계</chargeNm>
+				<colorCd>흰갈색</colorCd>
+				<desertionNo>442430201900208</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261412344_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>동송읍 이평리 827-34</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>강원-철원-2019-00190</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>033-450-5394</officetel>
+				<orgNm>강원도 철원군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261412344.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>문혜소방서 포획</specialMark>
+				<weight>1(Kg)</weight>
+			</item>
+			<item>
+				<age>2017(년생)</age>
+				<careAddr>강원도 철원군 동송읍 장흥로 311 (동송읍, 철원군농업기술센타) 농업기술센터</careAddr>
+				<careNm>철원군</careNm>
+				<careTel>033-450-5394</careTel>
+				<chargeNm>철원군 동물방역계</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>442430201900207</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261412469_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>동송읍 이평리 827-34</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>강원-철원-2019-00189</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>033-450-5394</officetel>
+				<orgNm>강원도 철원군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261412469.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>문혜소방서 포획</specialMark>
+				<weight>10(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>강원도 철원군 동송읍 장흥로 311 (동송읍, 철원군농업기술센타) 농업기술센터</careAddr>
+				<careNm>철원군</careNm>
+				<careTel>033-450-5394</careTel>
+				<chargeNm>철원군 동물방역계</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>442430201900206</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261112737_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>동송읍 이평1로 69번길 밤나무길</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>강원-철원-2019-00188</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>033-450-5394</officetel>
+				<orgNm>강원도 철원군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261112737.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>Q</sexCd>
+				<specialMark>오른쪽다리 다침 </specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2017(년생)</age>
+				<careAddr>강원도 속초시 대포동 159-13 </careAddr>
+				<careNm>유기동물보호소</careNm>
+				<careTel>033-633-2519</careTel>
+				<chargeNm>최화진</chargeNm>
+				<colorCd>갈/흰</colorCd>
+				<desertionNo>442423201900775</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270912584_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>조양동 청대마을길 67-22</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>강원-속초-2019-00611</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>033-639-2583</officetel>
+				<orgNm>강원도 속초시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270912584.jpeg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>내장칩 있음</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경기도 수원시 팔달구 중부대로42번길 9 (인계동) 한성동물병원</careAddr>
+				<careNm>한성동물병원</careNm>
+				<careTel>031-232-5831</careTel>
+				<chargeNm>수원시</chargeNm>
+				<colorCd>백검</colorCd>
+				<desertionNo>441374201902126</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270912958_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>황골주공2단지 110동 지하주차장</happenPlace>
+				<kindCd>[고양이] 한국 고양이</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200103</noticeEdt>
+				<noticeNo>경기-수원-2019-01528</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>031-228-3317</officetel>
+				<orgNm>경기도 수원시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270912958.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>즉시입양가능/저혈당증/콧물,기침이 있음</specialMark>
+				<weight>0.6(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경기도 수원시 팔달구 중부대로42번길 9 (인계동) 한성동물병원</careAddr>
+				<careNm>한성동물병원</careNm>
+				<careTel>031-232-5831</careTel>
+				<chargeNm>수원시</chargeNm>
+				<colorCd>검백</colorCd>
+				<desertionNo>441374201902125</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270912256_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>황골주공2단지 110동 지하주차장</happenPlace>
+				<kindCd>[고양이] 한국 고양이</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200103</noticeEdt>
+				<noticeNo>경기-수원-2019-01527</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>031-228-3317</officetel>
+				<orgNm>경기도 수원시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270912256.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>즉시입양가능합니다. 식욕있음</specialMark>
+				<weight>0.6(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경기도 수원시 권선구 서수원로577번길 341 (금곡동, 수원모아미래도센트럴타운1단지) 상가동 1층
+					B127호</careAddr>
+				<careNm>연두동물병원</careNm>
+				<careTel>031-294-8277</careTel>
+				<chargeNm>수원시</chargeNm>
+				<colorCd>회흑</colorCd>
+				<desertionNo>441374201902123</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261712295_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>화서동 광일빌라</happenPlace>
+				<kindCd>[개] 요크셔 테리어</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200103</noticeEdt>
+				<noticeNo>경기-수원-2019-01526</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>031-228-3317</officetel>
+				<orgNm>경기도 수원시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261712295.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>순함</specialMark>
+				<weight>2.1(Kg)</weight>
+			</item>
+			<item>
+				<age>2017(년생)</age>
+				<careAddr>인천광역시 중구 개항로 68 (경동) </careAddr>
+				<careNm>경동동물병원</careNm>
+				<careTel>032-765-9988</careTel>
+				<chargeNm>조용현</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>428349201901006</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261612418_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>왕산해수욕장탐앤탐스앞공터</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>인천-중구-2019-00681</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>032-760-7377</officetel>
+				<orgNm>인천광역시 중구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261612418.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>교통사고로대퇴부골절로보행이불편,오른쪽눈콧등에상처가심함</specialMark>
+				<weight>18.50(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>대구광역시 동구 금강로 151-13 (금강동) </careAddr>
+				<careNm>대구유기동물보호센터</careNm>
+				<careTel>053-964-6258</careTel>
+				<chargeNm>동물보호담당자</chargeNm>
+				<colorCd>검정+흰색</colorCd>
+				<desertionNo>427347201901023</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/20191227091272_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>성당동 문성 한방병원 부근</happenPlace>
+				<kindCd>[고양이] 한국 고양이</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>대구-달서-2019-00720</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>053-667-2652</officetel>
+				<orgNm>대구광역시 달서구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/20191227091272.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>영양상태 불량</specialMark>
+				<weight>1(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>대구광역시 동구 금강로 151-13 (금강동) </careAddr>
+				<careNm>대구유기동물보호센터</careNm>
+				<careTel>053-964-6258</careTel>
+				<chargeNm>동물보호담당자</chargeNm>
+				<colorCd>삼색</colorCd>
+				<desertionNo>427347201901022</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270912557_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>두류 파출소</happenPlace>
+				<kindCd>[고양이] 한국 고양이</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>대구-달서-2019-00719</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>053-667-2652</officetel>
+				<orgNm>대구광역시 달서구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270912557.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>어미분리자묘, 결막염, 탈수, 탈진</specialMark>
+				<weight>0.50(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>대구광역시 동구 금강로 151-13 (금강동) </careAddr>
+				<careNm>대구유기동물보호센터</careNm>
+				<careTel>053-964-6258</careTel>
+				<chargeNm>동물보호담당자</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>427347201901021</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270912287_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>감삼동 179 운틴자리빌 앞</happenPlace>
+				<kindCd>[개] 푸들</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>대구-달서-2019-00718</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>053-667-2652</officetel>
+				<orgNm>대구광역시 달서구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270912287.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>.</specialMark>
+				<weight>2(Kg)</weight>
+			</item>
+			<item>
+				<age>2013(년생)</age>
+				<careAddr>부산광역시 해운대구 송정2로13번길 46 (송정동) </careAddr>
+				<careNm>누리동물병원</careNm>
+				<careTel>051-701-7599</careTel>
+				<chargeNm>권나연</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>426340201900872</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270912438_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>부산시 기장군 기장읍 동부산관광6로 59 국립부산과학관 주차장</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>부산-기장-2019-00608</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>051-709-2894</officetel>
+				<orgNm>부산광역시 기장군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270912438.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>초록색+파란색목줄 착용</specialMark>
+				<weight>5.8(Kg)</weight>
+			</item>
+			<item>
+				<age>2013(년생)</age>
+				<careAddr>부산광역시 강서구 가락대로1283번길 25-2 (봉림동) </careAddr>
+				<careNm>(사)유기동물및동물</careNm>
+				<careTel>051-971-6208</careTel>
+				<chargeNm>김영하</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>426336201900847</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261012707_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>대저119</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>부산-강서-2019-00715</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>051-970-4814</officetel>
+				<orgNm>부산광역시 강서구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261012707.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>흰색</specialMark>
+				<weight>20(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>부산광역시 강서구 가락대로1283번길 25-2 (봉림동) </careAddr>
+				<careNm>(사)유기동물및동물</careNm>
+				<careTel>051-971-6208</careTel>
+				<chargeNm>김영하</chargeNm>
+				<colorCd>검갈</colorCd>
+				<desertionNo>426336201900846</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261012480_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>대저119</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>부산-강서-2019-00716</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>051-970-4814</officetel>
+				<orgNm>부산광역시 강서구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261012480.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>검갈</specialMark>
+				<weight>7(Kg)</weight>
+			</item>
+			<item>
+				<age>2016(년생)</age>
+				<careAddr>부산광역시 해운대구 송정2로13번길 46 (송정동) </careAddr>
+				<careNm>누리동물병원</careNm>
+				<careTel>051-701-7599</careTel>
+				<chargeNm>김세희</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>426335201900994</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/20191227081274_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>조리2길 79</happenPlace>
+				<kindCd>[개] 혼합</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>부산-금정-2019-00453</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>051-519-4741</officetel>
+				<orgNm>부산광역시 금정구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/20191227081274.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>금정 1-227, 빨간색+파란색목줄, 공격성, 동물등록칩확인불가</specialMark>
+				<weight>8.20(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>부산광역시 강서구 가락대로1283번길 25-2 (봉림동) </careAddr>
+				<careNm>유기동물및동물보호협</careNm>
+				<careTel>051-971-6208</careTel>
+				<chargeNm>장성현</chargeNm>
+				<colorCd>흰검</colorCd>
+				<desertionNo>426334201901218</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/20191227091235_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>사하로185번길12</happenPlace>
+				<kindCd>[고양이] 한국 고양이</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>부산-사하-2019-00889</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>051-220-4476</officetel>
+				<orgNm>부산광역시 사하구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/20191227091235.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>흰검</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2015(년생)</age>
+				<careAddr>부산광역시 해운대구 송정2로13번길 46 (송정동) </careAddr>
+				<careNm>누리동물병원</careNm>
+				<careTel>051-701-7599</careTel>
+				<chargeNm>김종준</chargeNm>
+				<colorCd>검정+갈색+흰색</colorCd>
+				<desertionNo>426333201900993</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270912347_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>재반로225번길 24</happenPlace>
+				<kindCd>[고양이] 혼합</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>부산-해운대-2019-00596</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>051-749-5682</officetel>
+				<orgNm>부산광역시 해운대구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270912347.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>기력저하, 안질환</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>부산광역시 해운대구 송정2로13번길 46 (송정동) </careAddr>
+				<careNm>누리동물병원</careNm>
+				<careTel>051-701-7599</careTel>
+				<chargeNm>김종준</chargeNm>
+				<colorCd>검정+갈색</colorCd>
+				<desertionNo>426333201900992</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270812460_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>아랫반송로 79번길 19 우일빌라</happenPlace>
+				<kindCd>[고양이] 혼합</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>부산-해운대-2019-00595</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>051-749-5682</officetel>
+				<orgNm>부산광역시 해운대구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270812460.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>파란색스카프, 기력저하, 안질환</specialMark>
+				<weight>0.4(Kg)</weight>
+			</item>
+			<item>
+				<age>2016(년생)</age>
+				<careAddr>부산광역시 해운대구 송정2로13번길 46 (송정동) </careAddr>
+				<careNm>누리동물병원</careNm>
+				<careTel>051-701-7599</careTel>
+				<chargeNm>김종준</chargeNm>
+				<colorCd>갈색+흰색</colorCd>
+				<desertionNo>426333201900991</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912270812145_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>반여2~3동 파출소 (재반로197)</happenPlace>
+				<kindCd>[개] 시츄</kindCd>
+				<neuterYn>Y</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>부산-해운대-2019-00594</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>051-749-5682</officetel>
+				<orgNm>부산광역시 해운대구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912270812145.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>미용됨</specialMark>
+				<weight>3.6(Kg)</weight>
+			</item>
+			<item>
+				<age>2017(년생)</age>
+				<careAddr>서울특별시 관악구 남부순환로 1429 (신림동) </careAddr>
+				<careNm>러브펫종합동물병원</careNm>
+				<careTel>02-837-8875</careTel>
+				<chargeNm>전원배</chargeNm>
+				<colorCd>흰노검갈색</colorCd>
+				<desertionNo>411320201901792</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912262112241_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>신림동564-3</happenPlace>
+				<kindCd>[고양이] 한국 고양이</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>서울-관악-2019-00811</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>02-879-6692</officetel>
+				<orgNm>서울특별시 관악구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912262112241.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>집고양이추정,순하고사람잘따름,병원앞발견</specialMark>
+				<weight>3(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>서울특별시 마포구 합정동 411-18</careAddr>
+				<careNm>홍익동물병원</careNm>
+				<careTel>02-325-2026</careTel>
+				<chargeNm>염인국</chargeNm>
+				<colorCd>턱시도</colorCd>
+				<desertionNo>411313201901379</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912271112627_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>아현동</happenPlace>
+				<kindCd>[고양이] 한국 고양이</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>서울-마포-2019-00537</noticeNo>
+				<noticeSdt>20191227</noticeSdt>
+				<officetel>02-3153-8543</officetel>
+				<orgNm>서울특별시 마포구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912271112627.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>생후2개월. 눈병</specialMark>
+				<weight>0.7(Kg)</weight>
+			</item>
+			<item>
+				<age>2018(년생)</age>
+				<careAddr>경상남도 양산시 동면 석산리 392 양산시농업기술센터</careAddr>
+				<careNm>양산시유기동물보호소</careNm>
+				<careTel>055-392-5337</careTel>
+				<chargeNm>양산시</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>448538201900856</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261412791_s[1].jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>주진로56도로변</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-양산-2019-00521</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>055-392-5364</officetel>
+				<orgNm>경상남도 양산시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261412791.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>갈색흰색</specialMark>
+				<weight>4.5(Kg)</weight>
+			</item>
+			<item>
+				<age>2017(년생)</age>
+				<careAddr>경상남도 거제시 사등면 두동로1길 109 (사등면, 한국자원재생공사폐비닐적재장) 거제시유기동물보호소
+				</careAddr>
+				<careNm>거제시유기동물보호소</careNm>
+				<careTel>055-639-6368</careTel>
+				<chargeNm>이성민</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>448537201901234</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261712485_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>옥포시내</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-거제-2019-01146</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>055-639-6366</officetel>
+				<orgNm>경상남도 거제시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261712485.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>목줄착용</specialMark>
+				<weight>8(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 거제시 사등면 두동로1길 109 (사등면, 한국자원재생공사폐비닐적재장) 거제시유기동물보호소
+				</careAddr>
+				<careNm>거제시유기동물보호소</careNm>
+				<careTel>055-639-6368</careTel>
+				<chargeNm>이성민</chargeNm>
+				<colorCd>검은색</colorCd>
+				<desertionNo>448537201901233</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261612886_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>옥포 대우조선 부근</happenPlace>
+				<kindCd>[고양이] 페르시안-페르시안 친칠라</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-거제-2019-01145</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>055-639-6366</officetel>
+				<orgNm>경상남도 거제시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261612886.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>Q</sexCd>
+				<specialMark>순한편</specialMark>
+				<weight>2(Kg)</weight>
+			</item>
+			<item>
+				<age>2018(년생)</age>
+				<careAddr>경상남도 창원시 진해구 웅천로 218 (성내동, 농업기술센터) 205번지 </careAddr>
+				<careNm>진해유기동물보호소</careNm>
+				<careTel>055-225-5483</careTel>
+				<chargeNm>진해구</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>448532201900932</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261312319_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>경화시장</happenPlace>
+				<kindCd>[개] 페키니즈</kindCd>
+				<neuterYn>Y</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원3-2019-00602</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>055-225-5483</officetel>
+				<orgNm>경상남도 창원시 진해구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261312319.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>칩x, 사람을 너무좋아해서 사람에게 꼭 붙어있고 싶어함, 착한아이 손잡아주세요
+				</specialMark>
+				<weight>4.2(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 창원시 진해구 웅천로 218 (성내동, 농업기술센터) 205번지 </careAddr>
+				<careNm>진해유기동물보호소</careNm>
+				<careTel>055-225-5483</careTel>
+				<chargeNm>진해구</chargeNm>
+				<colorCd>베이지</colorCd>
+				<desertionNo>448532201900931</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/20191226131256_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>행암로25</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원3-2019-00601</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>055-225-5483</officetel>
+				<orgNm>경상남도 창원시 진해구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/20191226131256.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>칩x, 4개월 추정,처진귀, 까만코,겁이많아 무서워하여 입질있음, </specialMark>
+				<weight>3.9(Kg)</weight>
+			</item>
+			<item>
+				<age>2017(년생)</age>
+				<careAddr>경상남도 창원시 진해구 웅천로 218 (성내동, 농업기술센터) 205번지 </careAddr>
+				<careNm>진해유기동물보호소</careNm>
+				<careTel>055-225-5483</careTel>
+				<chargeNm>진해구</chargeNm>
+				<colorCd>검정+흰색</colorCd>
+				<desertionNo>448532201900930</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261212857_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>웅천로 183-5번길 5</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원3-2019-00600</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>055-225-5483</officetel>
+				<orgNm>경상남도 창원시 진해구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261212857.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>칩x,빨간색목줄착용, 근처에 오는것도 허락하지않음, 입질심함, 적응후 공고수정예정
+				</specialMark>
+				<weight>5.2(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 창원시 진해구 웅천로 218 (성내동, 농업기술센터) 205번지 </careAddr>
+				<careNm>진해유기동물보호소</careNm>
+				<careTel>055-225-5483</careTel>
+				<chargeNm>진해구</chargeNm>
+				<colorCd>4개월 추정</colorCd>
+				<desertionNo>448532201900929</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261112945_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>남양동 207-14</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원3-2019-00599</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>055-225-5483</officetel>
+				<orgNm>경상남도 창원시 진해구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261112945.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>칩x, 4개월 추정, 처진귀, 동글한눈,겁을 먹고 있어 입질있음, 적응후 공고수정
+				</specialMark>
+				<weight>3.5(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 창원시 진해구 웅천로 218 (성내동, 농업기술센터) 205번지 </careAddr>
+				<careNm>진해유기동물보호소</careNm>
+				<careTel>055-225-5483</careTel>
+				<chargeNm>진해구</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>448532201900928</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261112331_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>경화 아파트앞</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원3-2019-00598</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>055-225-5483</officetel>
+				<orgNm>경상남도 창원시 진해구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261112331.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>남매들만 입소,1개월 추정, 진한갈색코, 끝만처진귀, 너무 깜찍한 얼굴,소심하지만 사람을 좋아함
+				</specialMark>
+				<weight>1.7(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상남도 창원시 진해구 웅천로 218 (성내동, 농업기술센터) 205번지 </careAddr>
+				<careNm>진해유기동물보호소</careNm>
+				<careTel>055-225-5483</careTel>
+				<chargeNm>진해구</chargeNm>
+				<colorCd>검정</colorCd>
+				<desertionNo>448532201900927</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261112330_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>경화 아파트앞</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-창원3-2019-00597</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>055-225-5483</officetel>
+				<orgNm>경상남도 창원시 진해구</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261112330.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>남매둘만 입소,1개월 추정, 손바닥만큼 작은아이, 네 발만 흰색, 사람을 좋아하여 애교많음
+				</specialMark>
+				<weight>1.6(Kg)</weight>
+			</item>
+			<item>
+				<age>2006(년생)</age>
+				<careAddr>경상남도 진주시 집현면 신당길207번길 22 (집현면, 지역농업개발시설) </careAddr>
+				<careNm>진주시유기동물보호소</careNm>
+				<careTel>055-749-6134</careTel>
+				<chargeNm>진주시청</chargeNm>
+				<colorCd>검정색+흰색</colorCd>
+				<desertionNo>448531201900715</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261612518[1]_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>진주시 가호동 진주역</happenPlace>
+				<kindCd>[개] 치와와</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경남-진주-2019-00530</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>055-749-5644</officetel>
+				<orgNm>경상남도 진주시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261612518[1].jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark> 순 함 </specialMark>
+				<weight>2.0(Kg)</weight>
+			</item>
+			<item>
+				<age>2014(년생)</age>
+				<careAddr>경상북도 칠곡군 석적읍 포망로 341 (석적읍) </careAddr>
+				<careNm>칠곡유기동물보호센터</careNm>
+				<careTel>054-973-5710</careTel>
+				<chargeNm>홍영기</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>447522201900393</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261512850_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>가산다부리</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200102</noticeEdt>
+				<noticeNo>경북-칠곡-2019-00397</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-979-6493</officetel>
+				<orgNm>경상북도 칠곡군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261512850.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>회색목테착용</specialMark>
+				<weight>25(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 성주군 대가면 동강한강로 941-1 가야유기동물보호소</careAddr>
+				<careNm>가야유기동물보호소</careNm>
+				<careTel>010-3515-2020</careTel>
+				<chargeNm>이호현</chargeNm>
+				<colorCd>흰색 </colorCd>
+				<desertionNo>447521201900400</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261312106_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>용암면사무소 통보 </happenPlace>
+				<kindCd>[개] 푸들</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-성주-2019-00301</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-930-6684</officetel>
+				<orgNm>경상북도 성주군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261312106.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>흰색 수컷 푸들 1마리.</specialMark>
+				<weight>4~6(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 성주군 대가면 동강한강로 941-1 가야유기동물보호소</careAddr>
+				<careNm>가야유기동물보호소</careNm>
+				<careTel>010-3515-2020</careTel>
+				<chargeNm>이호현</chargeNm>
+				<colorCd>검흰섞임</colorCd>
+				<desertionNo>447521201900399</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912260912493_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>대가면 용흥리</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-성주-2019-00300</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-930-6684</officetel>
+				<orgNm>경상북도 성주군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912260912493.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>Q</sexCd>
+				<specialMark>믹스견 강아지 1마리. 2마리 같이 들어옴.</specialMark>
+				<weight>4~7(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 성주군 대가면 동강한강로 941-1 가야유기동물보호소</careAddr>
+				<careNm>가야유기동물보호소</careNm>
+				<careTel>010-3515-2020</careTel>
+				<chargeNm>이호현</chargeNm>
+				<colorCd>검흰 섞임</colorCd>
+				<desertionNo>447521201900398</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912260912198_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>대가면 용흥리</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-성주-2019-00299</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-930-6684</officetel>
+				<orgNm>경상북도 성주군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912260912198.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>Q</sexCd>
+				<specialMark>믹스견 강아지 1마리. 2마리 같이 들어옴.</specialMark>
+				<weight>3~6(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 청도군 화양읍 청화3길 10 (화양읍) 3층 농정과</careAddr>
+				<careNm>청도동물보호소</careNm>
+				<careTel>054-370-6557</careTel>
+				<chargeNm>청도군</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>447519201900393</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261712779_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>이서면 가금구라길 263</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-청도-2019-00395</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-370-6557</officetel>
+				<orgNm>경상북도 청도군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261712779.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>사나움,5개월</specialMark>
+				<weight>8(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 영양군 입암면 마령산해로 1202 (입암면) .</careAddr>
+				<careNm>영양군유기동물보호소</careNm>
+				<careTel>010-3804-1700</careTel>
+				<chargeNm>송병철</chargeNm>
+				<colorCd>흑색/황색 혼합</colorCd>
+				<desertionNo>447517201900114</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261712837_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>영양군 입암면 사무소</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-영양-2019-00112</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-680-6662</officetel>
+				<orgNm>경상북도 영양군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261712837.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>입암면사무소에서 보관</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 영양군 입암면 마령산해로 1202 (입암면) .</careAddr>
+				<careNm>영양군유기동물보호소</careNm>
+				<careTel>010-3804-1700</careTel>
+				<chargeNm>송병철</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>447517201900113</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261712128_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>영양군 입암면 사무소</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-영양-2019-00111</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-680-6662</officetel>
+				<orgNm>경상북도 영양군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261712128.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>입암면사무소에서 보관</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 영양군 입암면 마령산해로 1202 (입암면) .</careAddr>
+				<careNm>영양군유기동물보호소</careNm>
+				<careTel>010-3804-1700</careTel>
+				<chargeNm>송병철</chargeNm>
+				<colorCd>흑색</colorCd>
+				<desertionNo>447517201900112</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261712512_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>영양군 입암면 사무소</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-영양-2019-00110</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-680-6662</officetel>
+				<orgNm>경상북도 영양군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261712512.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>입암면사무소에서 보관</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 영양군 입암면 마령산해로 1202 (입암면) .</careAddr>
+				<careNm>영양군유기동물보호소</careNm>
+				<careTel>010-3804-1700</careTel>
+				<chargeNm>송병철</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>447517201900111</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261712763_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>영양군 입암면 사무소</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-영양-2019-00109</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-680-6662</officetel>
+				<orgNm>경상북도 영양군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261712763.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>입암면사무소에서 보관</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2014(년생)</age>
+				<careAddr>경상북도 영양군 입암면 마령산해로 1202 (입암면) .</careAddr>
+				<careNm>영양군유기동물보호소</careNm>
+				<careTel>010-3804-1700</careTel>
+				<chargeNm>송병철</chargeNm>
+				<colorCd>황색</colorCd>
+				<desertionNo>447517201900110</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261712974_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>영양군 입암119안전센터</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-영양-2019-00108</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-680-6662</officetel>
+				<orgNm>경상북도 영양군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261712974.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>석보면 민가 닭장에서 생포</specialMark>
+				<weight>13(Kg)</weight>
+			</item>
+			<item>
+				<age>2014(년생)</age>
+				<careAddr>경상북도 영양군 입암면 마령산해로 1202 (입암면) .</careAddr>
+				<careNm>영양군유기동물보호소</careNm>
+				<careTel>010-3804-1700</careTel>
+				<chargeNm>송병철</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>447517201900109</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261712328_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>영양군 입암119안전센터</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-영양-2019-00107</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-680-6662</officetel>
+				<orgNm>경상북도 영양군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261712328.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>석보면 민가 닭장에서 생포</specialMark>
+				<weight>13(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 영양군 입암면 마령산해로 1202 (입암면) .</careAddr>
+				<careNm>영양군유기동물보호소</careNm>
+				<careTel>010-3804-1700</careTel>
+				<chargeNm>송병철</chargeNm>
+				<colorCd>흑색</colorCd>
+				<desertionNo>447517201900108</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261712439_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>영양군 수비면 사무소</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-영양-2019-00106</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-680-6662</officetel>
+				<orgNm>경상북도 영양군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261712439.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>면사무소에 버려짐</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 영양군 입암면 마령산해로 1202 (입암면) .</careAddr>
+				<careNm>영양군유기동물보호소</careNm>
+				<careTel>010-3804-1700</careTel>
+				<chargeNm>송병철</chargeNm>
+				<colorCd>흑색</colorCd>
+				<desertionNo>447517201900107</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261712752_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>영양군 수비면 사무소</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-영양-2019-00105</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-680-6662</officetel>
+				<orgNm>경상북도 영양군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261712752.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>면사무소에 버려짐</specialMark>
+				<weight>4(Kg)</weight>
+			</item>
+			<item>
+				<age>2011(년생)</age>
+				<careAddr>경상북도 경산시 용성면 육동로 220-18 (용성면) 경산시 유기 동물 보호소</careAddr>
+				<careNm>경산시유기동물보호소</careNm>
+				<careTel>010-3506-3661</careTel>
+				<colorCd>흰색</colorCd>
+				<desertionNo>447513201901017</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912262012169_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>하양 동서리</happenPlace>
+				<kindCd>[개] 말티즈</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-경산-2019-00903</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>053-810-6745</officetel>
+				<orgNm>경상북도 경산시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912262012169.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>말티즈, 하양 동서리 공용주차장 2층에서 배회</specialMark>
+				<weight>3(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 경산시 용성면 육동로 220-18 (용성면) 경산시 유기 동물 보호소</careAddr>
+				<careNm>경산시유기동물보호소</careNm>
+				<careTel>010-3506-3661</careTel>
+				<colorCd>흰색</colorCd>
+				<desertionNo>447513201901016</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912262012873_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>압량 당리</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-경산-2019-00902</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>053-810-6745</officetel>
+				<orgNm>경상북도 경산시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912262012873.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>생후 60일, 어미와 함께 구조, 귀여워요</specialMark>
+				<weight>3.6(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 경산시 용성면 육동로 220-18 (용성면) 경산시 유기 동물 보호소</careAddr>
+				<careNm>경산시유기동물보호소</careNm>
+				<careTel>010-3506-3661</careTel>
+				<colorCd>흰색</colorCd>
+				<desertionNo>447513201901015</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912262012803_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>압량당리</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-경산-2019-00901</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>053-810-6745</officetel>
+				<orgNm>경상북도 경산시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912262012803.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>생후 60일, 어미와 함께 구조, 귀여워요</specialMark>
+				<weight>3(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 경산시 용성면 육동로 220-18 (용성면) 경산시 유기 동물 보호소</careAddr>
+				<careNm>경산시유기동물보호소</careNm>
+				<careTel>010-3506-3661</careTel>
+				<colorCd>흰색</colorCd>
+				<desertionNo>447513201901014</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912262012305_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>압량당리</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-경산-2019-00900</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>053-810-6745</officetel>
+				<orgNm>경상북도 경산시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912262012305.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>생후 60일, 어미와 함께 구조, 귀여워요</specialMark>
+				<weight>3.5(Kg)</weight>
+			</item>
+			<item>
+				<age>2017(년생)</age>
+				<careAddr>경상북도 경산시 용성면 육동로 220-18 (용성면) 경산시 유기 동물 보호소</careAddr>
+				<careNm>경산시유기동물보호소</careNm>
+				<careTel>010-3506-3661</careTel>
+				<colorCd>흰색</colorCd>
+				<desertionNo>447513201901013</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912262012562_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>압량당리</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-경산-2019-00899</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>053-810-6745</officetel>
+				<orgNm>경상북도 경산시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912262012562.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>당리 젖소농장에서 출산 (60일정도), 새끼와같이구조</specialMark>
+				<weight>22(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 경산시 용성면 육동로 220-18 (용성면) 경산시 유기 동물 보호소</careAddr>
+				<careNm>경산시유기동물보호소</careNm>
+				<careTel>010-3506-3661</careTel>
+				<colorCd>연갈색</colorCd>
+				<desertionNo>447513201901012</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261312224_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>와촌섬마을길 </happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-경산-2019-00893</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>053-810-6745</officetel>
+				<orgNm>경상북도 경산시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261312224.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>생후 30일</specialMark>
+				<weight>0.5(Kg)</weight>
+			</item>
+			<item>
+				<age>2015(년생)</age>
+				<careAddr>경상북도 포항시 북구 흥해읍 덕장길 224 (흥해읍) </careAddr>
+				<careNm>영일동물플러스</careNm>
+				<careTel>054-262-8295</careTel>
+				<chargeNm>안창태</chargeNm>
+				<colorCd>흑 백</colorCd>
+				<desertionNo>447502201901683</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261212572_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>경북 포항시 남구 대도동 대해성당 앞</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-포항-2019-01264</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-270-2724</officetel>
+				<orgNm>경상북도 포항시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261212572.jpg
+				</popfile>
+				<processState>종료(반환)</processState>
+				<sexCd>M</sexCd>
+				<specialMark>소심함 목테착용, 왼쪽 뒷다리 상처 있음, 귀에 부분부분 털빠짐 각질 약간있음
+				</specialMark>
+				<weight>8(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>경상북도 포항시 북구 흥해읍 덕장길 224 (흥해읍) </careAddr>
+				<careNm>영일동물플러스</careNm>
+				<careTel>054-262-8295</careTel>
+				<chargeNm>안창태</chargeNm>
+				<colorCd>회색 백 흑</colorCd>
+				<desertionNo>447502201901682</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261212463_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>경북 포항시 북구 죽도동 죽도파출소</happenPlace>
+				<kindCd>[고양이] 한국 고양이</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-포항-2019-01263</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-270-2724</officetel>
+				<orgNm>경상북도 포항시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261212463.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>활발하고 애교많음 턱 밑에 털이 좀 듬성듬성함</specialMark>
+				<weight>2(Kg)</weight>
+			</item>
+			<item>
+				<age>2016(년생)</age>
+				<careAddr>경상북도 포항시 북구 흥해읍 덕장길 224 (흥해읍) </careAddr>
+				<careNm>영일동물플러스</careNm>
+				<careTel>054-262-8295</careTel>
+				<chargeNm>안창태</chargeNm>
+				<colorCd>백</colorCd>
+				<desertionNo>447502201901681</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261212283_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>경상북도 포항시 북구 장량중앙로 65 양덕파출소 </happenPlace>
+				<kindCd>[개] 말티즈</kindCd>
+				<neuterYn>Y</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>경북-포항-2019-01262</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>054-270-2724</officetel>
+				<orgNm>경상북도 포항시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261212283.jpg
+				</popfile>
+				<processState>종료(반환)</processState>
+				<sexCd>M</sexCd>
+				<specialMark>전체미용 꼬리털미용 온순함</specialMark>
+				<weight>2(Kg)</weight>
+			</item>
+			<item>
+				<age>2016(년생)</age>
+				<careAddr>전라남도 장성군 장성읍 청운길 19-1 (장성읍) </careAddr>
+				<careNm>우남동물병원</careNm>
+				<careTel>010-3628-9776</careTel>
+				<chargeNm>김유진</chargeNm>
+				<colorCd>갈색, 흰색</colorCd>
+				<desertionNo>446498201900345</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261612394_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>장성읍 장애인 종합복지관</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>전남-장성-2019-00345</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>061-390-8518</officetel>
+				<orgNm>전라남도 장성군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261612394.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>장애인 종합복지관 내 1~2일 떠돌아다님, 목줄있음</specialMark>
+				<weight>7(Kg)</weight>
+			</item>
+			<item>
+				<age>2016(년생)</age>
+				<careAddr>전라남도 장성군 장성읍 청운길 19-1 (장성읍) </careAddr>
+				<careNm>우남동물병원</careNm>
+				<careTel>010-3628-9776</careTel>
+				<chargeNm>김유진</chargeNm>
+				<colorCd>검은색</colorCd>
+				<desertionNo>446498201900344</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261612676_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>진원면 학림리 일대</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>전남-장성-2019-00344</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>061-390-8518</officetel>
+				<orgNm>전라남도 장성군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261612676.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>건강상태 양호</specialMark>
+				<weight>10(Kg)</weight>
+			</item>
+			<item>
+				<age>2016(년생)</age>
+				<careAddr>전라남도 장성군 장성읍 청운길 19-1 (장성읍) </careAddr>
+				<careNm>우남동물병원</careNm>
+				<careTel>010-3628-9776</careTel>
+				<chargeNm>김유진</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>446498201900343</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261612998_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>진원면 학람리</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>전남-장성-2019-00343</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>061-390-8518</officetel>
+				<orgNm>전라남도 장성군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261612998.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>건강상태 양호</specialMark>
+				<weight>15(Kg)</weight>
+			</item>
+			<item>
+				<age>2012(년생)</age>
+				<careAddr>전라남도 장성군 장성읍 청운길 19-1 (장성읍) </careAddr>
+				<careNm>우남동물병원</careNm>
+				<careTel>010-3628-9776</careTel>
+				<chargeNm>김유진</chargeNm>
+				<colorCd>갈색</colorCd>
+				<desertionNo>446498201900342</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261612481_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>서삼면 송현리 고가도로 밑</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>전남-장성-2019-00342</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>061-390-8518</officetel>
+				<orgNm>전라남도 장성군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261612481.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>교통사고로 인한 부상</specialMark>
+				<weight>20(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>전라남도 담양군 용면 시암골로 280-57 (용면) :용면 두장리 21번지</careAddr>
+				<careNm>담양군 동물보호 센터</careNm>
+				<careTel>010-3604-1338</careTel>
+				<chargeNm>이동경</chargeNm>
+				<colorCd>검정색</colorCd>
+				<desertionNo>446485201900295</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912262112695_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>고서파출소 부근</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200109</noticeEdt>
+				<noticeNo>전남-담양-2019-00270</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>061-380-2725</officetel>
+				<orgNm>전라남도 담양군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912262112695.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>온순하면서 잘따름</specialMark>
+				<weight>3.5(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>전라남도 담양군 용면 시암골로 280-57 (용면) :용면 두장리 21번지</careAddr>
+				<careNm>담양군 동물보호 센터</careNm>
+				<careTel>010-3604-1338</careTel>
+				<chargeNm>이동경</chargeNm>
+				<colorCd>검정색</colorCd>
+				<desertionNo>446485201900294</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912262112559_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>고서파출소 부근</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200109</noticeEdt>
+				<noticeNo>전남-담양-2019-00269</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>061-380-2725</officetel>
+				<orgNm>전라남도 담양군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912262112559.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>온순하면서 잘따름</specialMark>
+				<weight>3.3(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>전라남도 담양군 용면 시암골로 280-57 (용면) :용면 두장리 21번지</careAddr>
+				<careNm>담양군 동물보호 센터</careNm>
+				<careTel>010-3604-1338</careTel>
+				<chargeNm>이동경</chargeNm>
+				<colorCd>백색</colorCd>
+				<desertionNo>446485201900293</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912262112923_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>고서파출소 부근</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>N</neuterYn>
+				<noticeEdt>20200109</noticeEdt>
+				<noticeNo>전남-담양-2019-00268</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>061-380-2725</officetel>
+				<orgNm>전라남도 담양군</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912262112923.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>온순하면서 잘따름</specialMark>
+				<weight>3.5(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>전라북도 남원시 왕정동 67 </careAddr>
+				<careNm>하나동물병원</careNm>
+				<careTel>063-634-7582</careTel>
+				<chargeNm>남원시</chargeNm>
+				<colorCd>흰색</colorCd>
+				<desertionNo>445470201900873</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261612727_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>남원시 노암농공단지 누리ENG</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>전북-남원-2019-00683</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>063-620-6420</officetel>
+				<orgNm>전라북도 남원시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261612727.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>F</sexCd>
+				<specialMark>피부질환</specialMark>
+				<weight>2.5(Kg)</weight>
+			</item>
+			<item>
+				<age>2019(년생)</age>
+				<careAddr>전라북도 남원시 왕정동 67 </careAddr>
+				<careNm>하나동물병원</careNm>
+				<careTel>063-634-7582</careTel>
+				<chargeNm>남원시</chargeNm>
+				<colorCd>흰색 검정</colorCd>
+				<desertionNo>445470201900872</desertionNo>
+				<filename>http://www.animal.go.kr/files/shelter/2019/12/201912261612780_s.jpg
+				</filename>
+				<happenDt>20191226</happenDt>
+				<happenPlace>남원시 노암농공단지 누리ENG</happenPlace>
+				<kindCd>[개] 믹스견</kindCd>
+				<neuterYn>U</neuterYn>
+				<noticeEdt>20200106</noticeEdt>
+				<noticeNo>전북-남원-2019-00684</noticeNo>
+				<noticeSdt>20191226</noticeSdt>
+				<officetel>063-620-6420</officetel>
+				<orgNm>전라북도 남원시</orgNm>
+				<popfile>http://www.animal.go.kr/files/shelter/2019/12/201912261612780.jpg
+				</popfile>
+				<processState>보호중</processState>
+				<sexCd>M</sexCd>
+				<specialMark>피부질환</specialMark>
+				<weight>2.5(Kg)</weight>
+			</item>
+		</items>
+		<numOfRows>100</numOfRows>
+		<pageNo>1</pageNo>
+		<totalCount>7486</totalCount>
+	</body>
+</response>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+	<mapper namespace="kr.withanimal.member.dao.MemberDAO">
+	
+	<!-- 1. 저장 void insert(MemberVO vo); --> 
+	<insert id="insert" parameterType="MemberVO">
+		 insert into withanimal_member values
+		 (withanimal_member_idx_seq.nextval, #{u_id}, #{u_pw}, #{u_name},
+		 #{u_birth}, #{u_phone}, #{u_zipcode}, #{u_addr1}, #{u_addr2}, 
+		 #{u_use}, SYSDATE)
+	</insert>
+	
+	<!-- 2. 1개 읽기(idx로 얻기) MemberVO selectByIdx(int idx); --> 
+		<select id="selectByIdx" parameterType="int" resultType="MemberVO">
+	select * from withanimal_member where idx=#{idx}
+	</select>
+	
+	<!-- 3. 수정 void update(MemberVO vo);--> 
+		<update id="update" parameterType="MemberVO">
+		update withanimal_member set
+			u_name = #{u_name},
+			u_phone = #{u_phone},
+			u_zipcode = #{u_zipcode},
+			u_addr1 = #{u_addr1}
+			u_addr2 = #{u_addr2}		
+		where idx=#{idx}
+		</update>
+	
+	<!-- 4. 삭제 void delete(int idx);--> 
+	<delete id="delete" parameterType="int">
+		delete * from withanimal_member where idx=#{idx}
+	</delete>
+	
+	<!-- 5. 모두 읽기 List<MemberVO> selectList();--> 
+	<select id="selectList" resultType="MemberVO">
+		select * from withanimal_member order by idx desc
+	</select>
+	
+	<!-- 6. 개수 얻기 int getCount();--> 
+	<select id="getCount" resultType="int">
+		select count(*) from withanimal_member
+	</select>
+	
+	<!-- 7. 1개 읽기(u_id로 얻기)MemberVO selectByUserID(HashMap<String, String> map);--> 
+	<select id="selectByUserID" parameterType="java.util.HashMap" resultType="MemberVO">
+		select * from withanimal_member where u_id=#{u_id}
+	</select>
+	
+	<!-- 8. 1개 읽기(이름과 전화번호)MemberVO selectByUserName(HashMap<String, String> map);--> 
+	<select id="selectByUserName" parameterType="java.util.HashMap" resultType="MemberVO">
+		select * from withanimal_member where u_name=#{u_name} and u_phone=#{u_phone}
+	</select>
+	
+	<!-- 9. use값 변경하기 void updateUse(HashMap<String, String> map);--> 
+	<update id="updateUse" parameterType="java.util.HashMap">
+		update withanimal_member set u_use=#{u_use} where u_id=#{u_id}
+	</update>
+	
+	<!-- 10. password값 변경하기 void updatePassword(HashMap<String, String> map);--> 
+	<update id="updatePassword" parameterType="java.util.HashMap">
+		update  withanimal_member set u_pw=#{u_pw} where u_id=#{u_id}
+	</update>
+	</mapper>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

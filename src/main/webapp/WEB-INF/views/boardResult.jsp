@@ -31,7 +31,7 @@
 		<input type="hidden" name="b" value="${blockSize }">
 		<input type="hidden" name="idx" value="${vo.content_idx }">
 		<h2>${vo.subject }</h2>
-		<div class="profile_img"><img src="https://demo.sir.kr/gnuboard5/img/no_profile.gif"></div>
+		<div class="profile_img"><img src="${pageContext.request.contextPath }/resources/images/no_profile.gif"></div>
 		<div class="profile_info">
 			<span class="u_name" id="u_name${vo.content_idx }">${vo.u_name }</span>
 			<span id="content_regdate${vo.content_idx }" class="content_regdate">

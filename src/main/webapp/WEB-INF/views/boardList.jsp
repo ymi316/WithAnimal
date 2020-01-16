@@ -21,6 +21,8 @@
   <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,500,700,900&display=swap&subset=korean" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps&display=swap" rel="stylesheet">
 
   <!-- Custom styles for this template <link href="${pageContext.request.contextPath}/resources/css/list_style.css" rel="stylesheet">-->
   <link href="${pageContext.request.contextPath }/resources/css/agency.min.css" rel="stylesheet">
@@ -61,7 +63,7 @@
           </li>
           </c:if>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="${pageContext.request.contextPath }/board/protectList">보호동물 확인</a>
+            <a class="nav-link js-scroll-trigger" href="${pageContext.request.contextPath }/board/protectList">보호동물 공고</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="${pageContext.request.contextPath }/board/boardList">반려동물 분실등록</a>
@@ -72,10 +74,10 @@
   </nav>
 
   <!-- Header -->
-  <header class="masthead">
+  <header class="listhead">
     <div class="container">
       <div class="intro-text">
-        <div class="intro-lead-in">반려동물을 보호중이거나 목격하신 분은<br> 꼭 제보 부탁드립니다!</div>
+        <div class="intro-lead-in"> 반려동물을 보호중이거나 목격하신 분은 꼭 제보 부탁드립니다!</div>
         <div class="intro-heading text-uppercase">반려동물 분실등록 게시판</div>
         <c:if test="${not empty sessionScope.vo}">
 	        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" onclick="formInput()" id="submitBtn">분실 등록 &raquo;</a>
@@ -111,7 +113,7 @@
 					<c:forEach var="vo" items="${paging.list }" varStatus="vs">
 						<tr align="center">
 							<td id="idx${vo.content_idx }">${vo.content_idx }</td>
-							<td id='subject${vo.content_idx }'>
+							<td id='subject${vo.content_idx }' style="text-align: left;">
 								<span onclick='sendPost("boardResult",{"p":${paging.currentPage},"b":${paging.blockSize },"s":${paging.pageSize },"idx":${vo.content_idx }});' style="cursor: pointer;">
 									<c:out value="${vo.subject }"/>
 								</span>

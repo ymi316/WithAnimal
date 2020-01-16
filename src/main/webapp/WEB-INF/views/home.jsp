@@ -21,6 +21,8 @@
   <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,500,700,900&display=swap&subset=korean" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps&display=swap" rel="stylesheet">
 
   <!-- Custom styles for this template -->
   <link href="${pageContext.request.contextPath }/resources/css/agency.min.css" rel="stylesheet">
@@ -56,7 +58,7 @@
           </li>
           </c:if>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="${pageContext.request.contextPath }/board/protectList">보호동물 확인</a>
+            <a class="nav-link js-scroll-trigger" href="${pageContext.request.contextPath }/board/protectList">보호동물 공고</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="${pageContext.request.contextPath }/board/boardList">반려동물 분실등록</a>
@@ -67,11 +69,11 @@
   </nav>
 
   <!-- Header -->
-  <header class="masthead">
+  <header class="homehead">
     <div class="container">
       <div class="intro-text">
-        <div class="intro-lead-in">Welcome To "With Animal"</div>
-        <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
+        <div class="intro-lead-in">2020년에도 사랑과 관심은 계속됩니다</div>
+        <div class="intro-heading text-uppercase">소중한 생명, 당신이 필요합니다</div>
       </div>
     </div>
   </header>
@@ -82,7 +84,7 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">보호중인 동물들</h2>
-          <h3 class="section-subheading text-muted">구조 동물들의 가족이 되어주세요.</h3>
+          <h3 class="section-subheading text-muted">구조된 동물의 가족이 되어주세요.</h3>
         </div>
       </div>
       <div class="row">

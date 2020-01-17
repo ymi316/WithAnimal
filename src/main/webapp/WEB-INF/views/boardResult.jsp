@@ -41,9 +41,14 @@
 		
 		<div id="top_bnt"  class="btn_confirm write_div">
 		<c:if test="${not empty sessionScope.vo }">
-			<button type='button' onclick='sendPost("boardList",{"idx":"${vo.content_idx }","p":"${currentPage }","b":"${blockSize }","s":"${pageSize }"});' class='btn btn-default'>취소</button>
-			<button type='button'  id='btn_delete'  class='btn btn-danger' onclick='sendPost("deleteOk",{"idx":"${vo.content_idx }","p":"${currentPage }","b":"${blockSize }","s":"${pageSize }"});'>삭제</button>
-			<button type='submit'  id='btn_update'  class='btn btn-success'>수정</button>
+			<c:if test="${sessionScope.vo.u_id==vo.u_id}">
+				<button type='button' onclick='sendPost("boardList",{"idx":"${vo.content_idx }","p":"${currentPage }","b":"${blockSize }","s":"${pageSize }"});' class='btn btn-default'>취소</button>
+				<button type='button'  id='btn_delete'  class='btn btn-danger' onclick='sendPost("deleteOk",{"idx":"${vo.content_idx }","p":"${currentPage }","b":"${blockSize }","s":"${pageSize }"});'>삭제</button>
+				<button type='submit'  id='btn_update'  class='btn btn-success'>수정</button>
+			</c:if>
+			<c:if test="${sessionScope.vo.u_id!=vo.u_id}">
+				<button type='button' onclick='sendPost("boardList",{"idx":"${vo.content_idx }","p":"${currentPage }","b":"${blockSize }","s":"${pageSize }"});' class='btn btn-default'>목록보기</button>
+			</c:if>
 		</c:if>
 		<c:if test="${empty sessionScope.vo }">
 			<button type='button' onclick='sendPost("boardList",{"idx":"${vo.content_idx }","p":"${currentPage }","b":"${blockSize }","s":"${pageSize }"});' class='btn btn-default'>목록보기</button>

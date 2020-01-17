@@ -91,14 +91,14 @@
 					<div class="">
 					<ul class="list-inline">
 						<li class="list-li-left">
-							<a href="#" class="g-text-underline-hover">전체</a>
+							<a href="${pageContext.request.contextPath }/board/protectList" class="g-text-underline-hover">전체</a>
 						</li>
 						<li class="list-li-left">|</li>
 						<li class="list-li-left">
-							<a href="#" class="g-text-underline-hover">개</a></li>
+							<a href="${pageContext.request.contextPath }/board/protectDog" class="g-text-underline-hover">개</a></li>
 						<li class="list-li-left">|</li>
 						<li class="list-li-left">
-							<a href="#" class="g-text-underline-hover">고양이</a>
+							<a href="${pageContext.request.contextPath }/board/protectCat" class="g-text-underline-hover">고양이</a>
 						</li>	
 						<li class="list-li-left">|</li>
 						<li class="list-li-left">
@@ -108,9 +108,6 @@
 				</div>
 				<div class="">
 					<ul class="list-inline">
-						<li class="list-li-right">
-							<a href="#" class="g-text-underline-hover">종료</a></li>
-						<li class="list-li-right">|</li>
 						<li class="list-li-right">
 							<a href="#" class="g-text-underline-hover">보호중</a>
 						</li>

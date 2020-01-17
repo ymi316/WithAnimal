@@ -36,16 +36,19 @@ public class ProtectService {
 	
 	//xml를 json으로 변경
 	public int INDENT_FACTOR = 4;
-    public List<ProtectVO> readJson(String bgnde,String endde) throws MalformedURLException,IOException {
+    public List<ProtectVO> readJson(String bgnde,String endde, String upkind) throws MalformedURLException,IOException {
     	System.out.println("readJson bgnde: "+bgnde);
     	System.out.println("readJson endde: "+endde);
     	List<ProtectVO> list = new ArrayList<ProtectVO>();
     	try {
-    	String strUrl =	"http://openapi.animal.go.kr/openapi/service/rest/abandonmentPublicSrvc/abandonmentPublic?"
+    	 String strUrl =	"http://openapi.animal.go.kr/openapi/service/rest/abandonmentPublicSrvc/abandonmentPublic?"
     					+ "bgnde=" +bgnde
     					+ "&endde=" +endde
-    					+ "&pageNo=1"
+    					+ "&pageNo=10"
     					+ "&ServiceKey=O2GKwCxkLW84OZXlbc7wuiJE8cAieTSwRG%2FVOe3KQVKnFOoOpxqzYt7CsWezKxah0HuRCGpKAMj%2FqA7lhOG0Vg%3D%3D";
+    	 if(upkind!=null) {
+    		 strUrl += "&upkind="+upkind;
+     	}
         HttpURLConnection conn = (HttpURLConnection) new URL(strUrl).openConnection();
         conn.connect();
         
@@ -104,9 +107,9 @@ public class ProtectService {
     }	
     
 	// 1. 목록보기
-	public Paging<ProtectVO> selectList(String bgnde,String endde, int currentPage, int pageSize,int blockSize) throws MalformedURLException, IOException{
+	public Paging<ProtectVO> selectList(String bgnde,String endde,String upkind, int currentPage, int pageSize,int blockSize) throws MalformedURLException, IOException{
 		List<ProtectVO> list=null;
-		list = readJson(bgnde, endde);
+		list = readJson(bgnde, endde, upkind);
 		int totalCount = list.size();
 		Paging<ProtectVO> paging = new Paging<ProtectVO>(totalCount, currentPage, pageSize, blockSize);
 		List<ProtectVO> resultList = getPage(list,paging.getStartNo(),paging.getEndNo());
